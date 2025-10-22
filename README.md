@@ -49,8 +49,8 @@ and perform clustering using **K-Means** and **DBSCAN**. The app provides intera
 ## How to Run
 
 1. Clone the repository:
-- git clone <>
-- cd <>
+- git clone <repo>
+- cd <repo>
 2. Install dependencies:
 - pip install -r requirements.txt
 3. Run the Streamlit app:
